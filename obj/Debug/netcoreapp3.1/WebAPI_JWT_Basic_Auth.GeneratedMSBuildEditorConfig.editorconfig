@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebAPI_JWT_Basic_Auth
+build_property.ProjectDir = C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\
