@@ -51,3 +51,8 @@ C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\obj\Debug\net
 C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\obj\Debug\netcoreapp3.1\WebAPI_JWT_Refresh_Token.dll
 C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\obj\Debug\netcoreapp3.1\WebAPI_JWT_Refresh_Token.pdb
 C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\obj\Debug\netcoreapp3.1\WebAPI_JWT_Refresh_Token.genruntimeconfig.cache
+C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cgao\Documents\GitHub\webAPIAuth\WebAPI_JWT_Refresh_Token\obj\Debug\netcoreapp3.1\WebAPI_JWT_Refresh_Token.MvcApplicationPartsAssemblyInfo.cs

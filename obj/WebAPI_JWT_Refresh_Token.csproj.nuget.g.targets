@@ -4,6 +4,7 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
     <Import Project="$(NuGetPackageRoot)bricelam.entityframeworkcore.pluralizer\1.0.0\build\netstandard2.0\Bricelam.EntityFrameworkCore.Pluralizer.targets" Condition="Exists('$(NuGetPackageRoot)bricelam.entityframeworkcore.pluralizer\1.0.0\build\netstandard2.0\Bricelam.EntityFrameworkCore.Pluralizer.targets')" />
   </ImportGroup>
 </Project>
