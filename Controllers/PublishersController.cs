@@ -22,7 +22,7 @@ namespace BookStoresWebAPI.Controllers
             {
             _context = context;
             }
-        [HttpGet]
+    
 
         [HttpGet("GetPublishers")]
         public async Task<ActionResult<IEnumerable<Publisher>>> GetPublishers()

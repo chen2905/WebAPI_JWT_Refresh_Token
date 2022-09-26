@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\cgao\Documents\GitHub\webAPIAuth\publish\WebAPI_JWT_Refresh_Token</_PublishTargetUrl>
+    <History>True|2022-09-26T12:19:11.8025886Z;True|2022-09-26T21:03:00.3549329+10:00;True|2022-09-26T20:31:41.8417345+10:00;</History>
+  </PropertyGroup>
+</Project>
